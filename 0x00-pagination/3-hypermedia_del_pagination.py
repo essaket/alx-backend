@@ -1,4 +1,4 @@
-##!/usr/bin/env python3
+#!/usr/bin/env python3
 """3. Deletion-resilient hypermedia pagination"""
 import csv
 import math
