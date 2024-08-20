@@ -8,7 +8,6 @@ class FIFOCache(BaseCaching):
     def __init__(self):
         """Constructor"""
         super().__init__()
-        self.keys = []
 
     def put(self, key, item):
         """Add an item in the cache"""
