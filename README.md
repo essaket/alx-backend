@@ -5,6 +5,7 @@ The directories and files are organized as follows:
 
 - [0x00-pagination](https://github.com/essaket/alx-backend/tree/main/0x00-pagination)
 - [0x01-caching](https://github.com/essaket/alx-backend/tree/main/0x01-caching)
+- [0x02-i18n](https://github.com/essaket/alx-backend/tree/main/0x02-i18n)
   
 
 ---
